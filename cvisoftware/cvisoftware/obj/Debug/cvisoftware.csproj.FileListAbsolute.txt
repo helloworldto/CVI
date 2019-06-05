@@ -1,0 +1,75 @@
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\cvisoftware.exe.config
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\cvisoftware.exe
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\cvisoftware.pdb
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\CurveControl.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\MySql.Data.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\SharedClass.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\xMsgBox.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\office.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\bin\Debug\office.xml
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\obj\Debug\cvisoftware.Form1.resources
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\obj\Debug\cvisoftware.Properties.Resources.resources
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.GenerateResource.Cache
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\obj\Debug\cvisoftware.exe
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\obj\Debug\cvisoftware.pdb
+D:\360MoveData\Users\ouc\Documents\Visual Studio 2013\Projects\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csprojResolveAssemblyReference.cache
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\cvisoftware.exe.config
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\cvisoftware.exe
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\cvisoftware.pdb
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\CurveControl.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\MySql.Data.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\SharedClass.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\xMsgBox.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\office.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\stdole.dll
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\bin\Debug\office.xml
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csprojAssemblyReference.cache
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.Form1.resources
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.Properties.Resources.resources
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.GenerateResource.cache
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.CoreCompileInputs.cache
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.CopyComplete
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.exe
+D:\Code\C#\cvisoftware_1\cvisoftware\cvisoftware\obj\Debug\cvisoftware.pdb
+D:\2019\cvisoftware\cvisoftware\bin\Debug\cvisoftware.exe.config
+D:\2019\cvisoftware\cvisoftware\bin\Debug\cvisoftware.exe
+D:\2019\cvisoftware\cvisoftware\bin\Debug\cvisoftware.pdb
+D:\2019\cvisoftware\cvisoftware\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\2019\cvisoftware\cvisoftware\bin\Debug\CurveControl.dll
+D:\2019\cvisoftware\cvisoftware\bin\Debug\MySql.Data.dll
+D:\2019\cvisoftware\cvisoftware\bin\Debug\SharedClass.dll
+D:\2019\cvisoftware\cvisoftware\bin\Debug\xMsgBox.dll
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csprojAssemblyReference.cache
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.Form1.resources
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.Properties.Resources.resources
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.GenerateResource.cache
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.CoreCompileInputs.cache
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.csproj.CopyComplete
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.exe
+D:\2019\cvisoftware\cvisoftware\obj\Debug\cvisoftware.pdb
+D:\2019\cvisoftware\cvisoftware\bin\Debug\DataComm.dll
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\cvisoftware.exe.config
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\cvisoftware.exe
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\cvisoftware.pdb
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\CurveControl.dll
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\DataComm.dll
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\MySql.Data.dll
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\SharedClass.dll
+D:\2019\21180211113-张慧\cvisoftware\bin\Debug\xMsgBox.dll
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.csprojAssemblyReference.cache
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.Form1.resources
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.Properties.Resources.resources
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.csproj.GenerateResource.cache
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.csproj.CoreCompileInputs.cache
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.csproj.CopyComplete
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.exe
+D:\2019\21180211113-张慧\cvisoftware\obj\Debug\cvisoftware.pdb

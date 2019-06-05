@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>	
+	<Type>AirCapacity_Type</Type>
+	<ParameterName>空调性能计算</ParameterName>
+	<FileName>AirCapacityV201506.dll</FileName>
+	<Namespace>AirCapacityV201506</Namespace>
+	<Class>AirCapacityV201506.AirCapacityV201506</Class>
+	<Mode>SHOW</Mode>
+	<DataType>
+		<DataMode>NEWEST</DataMode >
+		<RequiredBeginTime>YES</RequiredBeginTime>
+		<RequiredENDTime>YES</RequiredENDTime>
+	</DataType>
+</Root>
